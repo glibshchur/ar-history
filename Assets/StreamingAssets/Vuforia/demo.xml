@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="vuf2-0" size="0.120000 0.113538" />
+    <ImageTarget name="kod" size="0.150000 0.150000" />
+    <ImageTarget name="vuf1" size="0.150000 0.125000" />
+    <ImageTarget name="vuf2" size="0.150000 0.125000" />
+    <ImageTarget name="natural-wooden-background_24837-269" size="0.150000 0.099920" />
+    <ImageTarget name="logo" size="0.150000 0.308325" />
+    <ImageTarget name="aerial_view_of_wooden_table_and_photography_hobby_concept_53876" size="0.150000 0.093450" />
+    <ImageTarget name="photo_2020-11-23_17-34-31" size="0.150000 0.119250" />
+  </Tracking>
+</QCARConfig>
